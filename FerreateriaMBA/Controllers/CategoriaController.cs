@@ -50,7 +50,6 @@ namespace apiFerreateriaMBA.Controllers.Models
         }
 
         // PUT: api/Categoria/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
         public async Task<IActionResult> PutCategorium(int id, Categorium categorium)
         {
@@ -81,7 +80,6 @@ namespace apiFerreateriaMBA.Controllers.Models
         }
 
         // POST: api/Categoria
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
         public async Task<ActionResult<Categorium>> PostCategorium(Categorium categorium)
         {

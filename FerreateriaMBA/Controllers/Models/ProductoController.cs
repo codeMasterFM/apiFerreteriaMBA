@@ -9,7 +9,7 @@ using apiFerreateriaMBA.Models;
 
 namespace apiFerreateriaMBA.Controllers.Models
 {
-    [Route("api/[controller]")]
+    [Route("MBA/[controller]")]
     [ApiController]
     public class ProductoController : ControllerBase
     {
@@ -50,7 +50,6 @@ namespace apiFerreateriaMBA.Controllers.Models
         }
 
         // PUT: api/Producto/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
         public async Task<IActionResult> PutProducto(int id, Producto producto)
         {
@@ -81,7 +80,6 @@ namespace apiFerreateriaMBA.Controllers.Models
         }
 
         // POST: api/Producto
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
         public async Task<ActionResult<Producto>> PostProducto(Producto producto)
         {
