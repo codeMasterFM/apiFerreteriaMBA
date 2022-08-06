@@ -7,9 +7,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<apiFerreateriaMBA.Models.FerreteriaMBA1Context>(p => { 
+builder.Services.AddDbContext<apiFerreateriaMBA.Models.FerreteriaMBA1Context>(p => {
 
-    p.UseSqlServer(builder.Configuration.GetConnectionString("context"))
+    p.UseSqlServer(builder.Configuration.GetConnectionString("context"));
 
 });
 
