@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Franklyn\\Source\\Repos\\apiFerreteriaMBA\\FerreateriaMBA\\apiFerreateriaMBA.csproj": {}
+    "C:\\Users\\Franklyn\\source\\repos\\apiFerreteriaMBA\\FerreateriaMBA\\apiFerreateriaMBA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Franklyn\\Source\\Repos\\apiFerreteriaMBA\\FerreateriaMBA\\apiFerreateriaMBA.csproj": {
+    "C:\\Users\\Franklyn\\source\\repos\\apiFerreteriaMBA\\FerreateriaMBA\\apiFerreateriaMBA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Franklyn\\Source\\Repos\\apiFerreteriaMBA\\FerreateriaMBA\\apiFerreateriaMBA.csproj",
+        "projectUniqueName": "C:\\Users\\Franklyn\\source\\repos\\apiFerreteriaMBA\\FerreateriaMBA\\apiFerreateriaMBA.csproj",
         "projectName": "apiFerreateriaMBA",
-        "projectPath": "C:\\Users\\Franklyn\\Source\\Repos\\apiFerreteriaMBA\\FerreateriaMBA\\apiFerreateriaMBA.csproj",
+        "projectPath": "C:\\Users\\Franklyn\\source\\repos\\apiFerreteriaMBA\\FerreateriaMBA\\apiFerreateriaMBA.csproj",
         "packagesPath": "C:\\Users\\Franklyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Franklyn\\Source\\Repos\\apiFerreteriaMBA\\FerreateriaMBA\\obj\\",
+        "outputPath": "C:\\Users\\Franklyn\\source\\repos\\apiFerreteriaMBA\\FerreateriaMBA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

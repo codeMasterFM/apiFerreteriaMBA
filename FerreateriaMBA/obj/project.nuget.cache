@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GKXvNn5ZLSWYaWfVvNIriPomqwk1vKRVKmfUDKKWpAPY/Jc9J8phU8WW/F3nJuZeAg5QrOU+goyTJDHIZwt+ZQ==",
+  "dgSpecHash": "/Reidv2vAHzoozUPMjRn/ktGNwgDocs+GwKtvXMFpUDZG1bojHGNAqM1Rz+J9Md3ISUSE+ie73WdettU1ShMJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Franklyn\\Source\\Repos\\apiFerreteriaMBA\\FerreateriaMBA\\apiFerreateriaMBA.csproj",
+  "projectFilePath": "C:\\Users\\Franklyn\\source\\repos\\apiFerreteriaMBA\\FerreateriaMBA\\apiFerreateriaMBA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Franklyn\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Franklyn\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
